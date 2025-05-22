@@ -1,0 +1,6 @@
+
+ACCORDIAN:
+1.Create a accordian -> single selection and then multi selection
+steps => create a folder "components" under "src" => create a "accordian " folder and create its own index.jsx,data.js(holds data to display),style.css
+2. use this create component inside index.jsx and render it there
+3.  write code 
